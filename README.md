@@ -1,4 +1,5 @@
 # Personal Assistant AI Agent (n8n + Gemini + Streamlit)
+**Demo Video:** [Watch Here] https://lnkd.in/p/dxdpkHUS
 
 An AI personal assistant that manages email, calendar, tasks, notes and expenses through natural language chat.
 
